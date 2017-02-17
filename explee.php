@@ -22,7 +22,7 @@
             html, body {
                 min-height: 100%;
                 height:100%;
-                background: url('img/background.jpg') no-repeat center center fixed;
+                background: url('/img/background.jpg') no-repeat center center fixed;
                 background-size: cover;
                 -o-background-size: cover;
                 -webkit-background-size: cover;
@@ -80,7 +80,7 @@
 
         <div id="parent">
             <div id="content">
-                <img width="200" src="img/logo.png" alt="logo-explee" />
+                <img width="200" src="/img/logo.png" alt="logo-explee" />
                 <h1>is temporarly down for maintenance*</h1>
                 <p>* We are performing scheduled maintenance. We should be back online shortly.</p>
             </div>
